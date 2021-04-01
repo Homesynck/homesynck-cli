@@ -1,7 +1,12 @@
 {
-  "name": "homesynck_cli",
+  "name": "homesynck-cli",
   "version": "1.0.0",
   "description": "CLI for toying with Homesynck",
+  "keywords": ["CLI", "message broker", "synchronisation", "realtime"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Homesynck/homesynck-cli.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
