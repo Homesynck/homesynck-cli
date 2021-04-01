@@ -1,0 +1,17 @@
+{
+  "name": "homesynck_cli",
+  "version": "1.0.0",
+  "description": "CLI for toying with Homesynck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Homesynck team",
+  "license": "MIT",
+  "dependencies": {
+    "homesynck-sdk": "^1.0.6",
+    "kleur": "^4.1.4",
+    "prompts": "^2.4.1"
+  },
+  "type": "module"
+}
